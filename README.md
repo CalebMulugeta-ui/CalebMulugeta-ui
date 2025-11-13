@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Brain Tumor Classifier](https://github.com/CalebMulugeta-ui/Brain-Tumor-Classifier)<br>🌱 I’m currently learning TensorFlow and Pytorch<br>📫 How to reach me calebmulugeta75@gmail.com<br>⚡ Fun fact If I didn't chose CS, I would be in the NBA
+🔭 I’m currently working on [A Personal Portfolio]()<br>🌱 I’m currently learning TensorFlow and Pytorch<br>📫 How to reach me calebmulugeta75@gmail.com<br>⚡ Fun fact If I didn't chose CS, I would be in the NBA
 
 
 # 💻 Tech Stack:
