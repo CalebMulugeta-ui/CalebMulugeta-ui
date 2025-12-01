@@ -10,8 +10,8 @@
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CalebMulugeta-ui&layout=compact&theme=github_dark)
 
-https://i.imgur.com/lUwVJii.gif
-<img src="https://i.imgur.com/lUwVJii.gif" width="400">
+https://media.tenor.com/eSwKUtq1AQcAAAAC/your-name.gif
+<img src="https://media.tenor.com/eSwKUtq1AQcAAAAC/your-name.gif" width="400">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CalebMulugeta-ui&icon=0&color=0)](https://visitcount.itsvg.in)
