@@ -9,8 +9,7 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CalebMulugeta-ui&layout=compact&theme=github_dark)
-
 ---
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBxZ2Rtb2Q2dHM1bmFmaWk3M2U2N3I1YWY3N2R3NnNtcHVmc2hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif)
 [![](https://visitcount.itsvg.in/api?id=CalebMulugeta-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
