@@ -8,8 +8,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CalebMulugeta-ui&layout=compact&theme=github_dark)
 
 ---
