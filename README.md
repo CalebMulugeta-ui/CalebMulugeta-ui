@@ -10,8 +10,6 @@
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CalebMulugeta-ui&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=CalebMulugeta-ui&show_icons=true&theme=github_dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CalebMulugeta-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
