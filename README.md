@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Caleb;Check+out+my+projects!)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/calebmulugeta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calebmulugeta75@gmail.com) 
 
